@@ -27,7 +27,7 @@ GUI Application that provides real time stock price details and much more.<br> F
 python3 stocks.py
 ```
 Stock-Buddy requires **Stock Symbol (Tickers)** of the Company in the input text field.
-<br>For more refernce to Stock Symbol (Tickers) click [here](https://www.investopedia.com/terms/s/stocksymbol.asp)
+<br>For more reference to Stock Symbol (Tickers) click [here](https://www.investopedia.com/terms/s/stocksymbol.asp)
 
 #### Screenshots
 ![Screenshot](Screenshot1.png) 
